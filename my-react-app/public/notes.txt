@@ -1,0 +1,1 @@
+Things in the public folder of the React app are usually publicly found assets in the form of URLs.

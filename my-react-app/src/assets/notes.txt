@@ -1,0 +1,1 @@
+Things in the assets folder are packaged during the build.
